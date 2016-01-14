@@ -1,0 +1,13 @@
+{
+  "name": "foursquare-category-scraper",
+  "version": "1.0.0",
+  "description": "Scrapes the id and name of foursquare categories",
+  "main": "index.js",
+  "author": "ssuljic",
+  "license": "MIT",
+  "dependencies": {
+    "express"    : "latest",
+    "request"    : "latest",
+    "cheerio"    : "latest"
+  }
+}
